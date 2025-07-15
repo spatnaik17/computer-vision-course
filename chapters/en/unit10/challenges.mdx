@@ -49,7 +49,7 @@ Generating high-quality synthetic data can be computationally expensive. This ma
 
 ### What is the perceived quality of the synthetic images?
 
-Let's consider the lung images we generated using DCGAN. While some of the images looked pretty realistic, others were not so good. A model trained with the low-quality images might fail to detect pneumonia because they contained noise that isn't present in the real images. It is also possible that your model might get really good at recognizing patterns in the synthetic data, but those patterns might not existor may be different in the real world.
+Let's consider the lung images we generated using DCGAN. While some of the images looked pretty realistic, others were not so good. A model trained with the low-quality images might fail to detect pneumonia because they contained noise that isn't present in the real images. It is also possible that your model might get really good at recognizing patterns in the synthetic data, but those patterns might not exist or may be different in the real world.
 
 A good practice is to evaluate your dataset using a metric such as Frechet Inception Distance (FID), Inception Score (IS), or the Classification Accuracy Score (CAS).
 

@@ -40,9 +40,9 @@ Join [the Hugging Face discord](https://discord.gg/hugging-face-8795489624644936
 ### Contributors
 
 <a href="https://github.com/huggingface/computer-vision-course/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=johko/computer-vision-course" />
+  <img src="https://contrib.rocks/image?repo=huggingface/computer-vision-course" />
 </a>
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=johko/computer-vision-course&type=Date)](https://star-history.com/#johko/computer-vision-course&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=huggingface/computer-vision-course&type=Date)](https://star-history.com/#huggingface/computer-vision-course&Date)
